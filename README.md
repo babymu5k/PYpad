@@ -4,6 +4,16 @@ PYpad is a Basic text editor which is under development(more features coming soo
 -------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 How To Build PYpad:
 
-make sure you have python 3.X
+-make sure you have python 3.X
 
-and thats about it
+-a text editor e.g.VScode,Sublime text
+
+_________________________________________________________________________________________________________________________________________________________________________
+
+MAJOR CHANGE FOR V0.1.5:
+
+-completly new GUI 
+
+-color change
+
+-underline
