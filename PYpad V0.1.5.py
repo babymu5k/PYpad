@@ -12,7 +12,7 @@ main_application = tk.Tk()
 main_application.geometry('900x700')
 main_application.title('PYpad')
 main_application.wm_iconbitmap('mainicon.ico') 
-########## main menu #############
+########## main menu ##############
 
 
 
